@@ -17,6 +17,7 @@
       <h1 class="display-4">Hello DevOps Students of RMIT Vietnam! [This is a new commit 2025]</h1>
 <p>Here is the current date and time: <%= new java.util.Date() %></p>
       <p class="lead">This is a very simple website template that uses bootstrap CSS framework!</p>
+<p class="lead">I am a student.</p>
       <p class="lead">This website is build automatically by Jenkins!!! Yeahhhh!!!</p>
       <hr class="my-4">
       <p>You can visit the website of School of Science, Engineering and Technology (SSET) of RMIT Vietnam by clicking to the button below!</p>
