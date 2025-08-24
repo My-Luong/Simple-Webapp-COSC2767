@@ -14,7 +14,7 @@
 
     <!-- The content of the website starts here now! -->
     <div class="jumbotron">
-      <h1 class="display-4">Hello DevOps Students of RMIT Vietnam! [This is a new commit 2025]</h1>
+      <h1 class="display-4">Hello My Luong! [This is a new commit 2025]</h1>
 <p>Here is the current date and time: <%= new java.util.Date() %></p>
       <p class="lead">This is a very simple website template that uses bootstrap CSS framework!</p>
 <p class="lead">I am a student.</p>
